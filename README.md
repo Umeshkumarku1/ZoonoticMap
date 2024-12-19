@@ -1,4 +1,3 @@
-ZoonoticMap: A Comprehensive Genomic Analysis Tool
 ZoonoticMap is an innovative computational tool designed to analyze genomic data systematically. It identifies and categorizes genes associated with pathogenicity, resistance, and mobile genetic elements such as ICE (Integrative Conjugative Elements). This tool is specifically tailored to assist researchers in studying zoonotic potential and pathogenicity across diverse microbial genomes.
 
 Key Features:
