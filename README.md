@@ -28,7 +28,7 @@ bash
 
 Copy code
 Clone the repository
-git clone https://github.com/Umeshkumarku1/ZoonoticMap.git
+git clone --depth=1 https://github.com/Umeshkumarku1/ZoonoticMap.git
 
 Navigate to the directory
 cd ZoonoticMap
