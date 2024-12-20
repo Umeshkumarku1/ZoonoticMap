@@ -1,6 +1,6 @@
 ZoonoticMap is an innovative computational tool designed to analyze genomic data systematically. It identifies and categorizes genes associated with pathogenicity, resistance, and mobile genetic elements such as ICE (Integrative Conjugative Elements). This tool is specifically tailored to assist researchers in studying zoonotic potential and pathogenicity across diverse microbial genomes.
 
-# Key Features:
+# Key features:
 Gene Annotation and Classification: Automatically annotates genomic data with predefined categories such as Resistance Genes, Efflux Genes, T3SS, T4SS, and more.
 Pathogenicity Scoring: Computes a total score based on gene categories to classify genomes into High, Moderate, or Low Risk of pathogenicity.
 Customizable Weights: Assigns predefined weights to different gene categories for accurate risk assessment.
@@ -13,7 +13,7 @@ Antibiotic resistance profiling.
 Pathogenicity prediction and risk assessment.
 Integrative studies on mobile genetic elements.
 
-# How It Works:
+# How it works:
 Input a query genome and a reference database of annotated genes.
 ZoonoticMap performs BLAST alignment to identify matching genes with high accuracy.
 Generates an annotated results file with categorized gene counts, total scores, and pathogenicity risk levels.
@@ -23,7 +23,7 @@ Python 3.x
 BLAST+ toolkit
 Python libraries: Biopython, Pandas, OpenPyxl
 
-# Installation and Usage:
+# Installation and usage:
 bash
 
 Copy code
@@ -42,4 +42,4 @@ python zoonoticmap.py
 # Contributing:
 Contributions are welcome! If you'd like to report issues or suggest enhancements, you can just submit a pull request or open an issue.
 
-ZoonoticMap aims to empower researchers and bioinformaticians with a reliable tool for genomic analysis and pathogen risk assessment. Start exploring the world of microbial genomics today!
+ZoonoticMap aims to empower researchers and bioinformaticians with a reliable tool for genomic analysis and pathogen risk assessment. Start exploring the world of microbial genomics today! If you have further queries kindly contact @research.umeshkumarku@gmail.com 
